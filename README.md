@@ -11,6 +11,7 @@ Make sure you have the following installed:
 - [Python 3.8+](https://www.python.org/downloads/)
 - [virtualenv](https://pypi.org/project/virtualenv/)
 - [git](https://git-scm.com/)
+- [VSCode](https://code.visualstudio.com/download)
 
 ## Installation
 
@@ -21,6 +22,7 @@ mkdir codecreate
 cd codecreate
 git clone https://github.com/codecreateau/course-python.git
 cd course-python
+code .
 ```
 
 ## Usage
