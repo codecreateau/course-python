@@ -50,3 +50,7 @@ the following command:
 cd <project-or-exercise-name>
 pip install requirements.txt
 ```
+
+## Contributing
+
+Read more [here](./CONTRIBUTING.md).
