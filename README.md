@@ -13,6 +13,12 @@ Make sure you have the following installed:
 - [git](https://git-scm.com/)
 - [VSCode](https://code.visualstudio.com/download)
 
+For **Windows**, you will need to install a Linux subsystem using the [guide](https://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/).
+
+**Note:** This course only supports the usage of a Unix-based system, use other
+operating systems (such as Windows with only PowerShell/Command Prompt) at your
+own risk.
+
 ## Installation
 
 Use [git](https://git-scm.com/) to download the course files
